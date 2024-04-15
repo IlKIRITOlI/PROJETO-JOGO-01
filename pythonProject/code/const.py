@@ -1,3 +1,2 @@
 WIN_WIDTH = 800
 WIN_HEIGHT = 600
-print('aa')
